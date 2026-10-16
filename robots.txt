@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eruban.github.io/k5k1prog-mac/sitemap.xml
